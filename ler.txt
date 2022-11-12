@@ -1,0 +1,5 @@
+Abra o arquivo "Metodos" para executar o programa
+
+pode ser o atalho ou diretamente na pasta
+
+ProjetoPAFT\dist\Metodos
